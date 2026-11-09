@@ -1,0 +1,21 @@
+blackspot_id,road_id,location,identified_date,intervention_type,intervention_date,status
+BS001,RD010,Intersection 1,2025-03-01,Street Lighting,2026-02-28,Monitored
+BS002,RD083,Intersection 2,2025-10-22,New Traffic Light,2026-01-31,Monitored
+BS003,RD045,Intersection 3,2025-08-26,Street Lighting,2026-03-23,Monitored
+BS004,RD030,Intersection 4,2025-10-01,New Traffic Light,2026-02-24,Monitored
+BS005,RD015,Intersection 5,2025-09-11,Speed Bump,2026-04-09,Resolved
+BS006,RD023,Intersection 6,2025-04-04,Street Lighting,2026-04-09,Monitored
+BS007,RD096,Intersection 7,2025-01-13,Speed Bump,2026-03-17,Resolved
+BS008,RD097,Intersection 8,2025-10-22,Street Lighting,2026-02-03,Monitored
+BS009,RD021,Intersection 9,2025-12-11,Street Lighting,2026-02-22,Monitored
+BS010,RD002,Intersection 10,2025-06-17,Street Lighting,2026-02-16,Resolved
+BS011,RD067,Intersection 11,2025-11-13,New Traffic Light,2026-03-28,Resolved
+BS012,RD068,Intersection 12,2025-10-02,Street Lighting,2026-03-08,Resolved
+BS013,RD035,Intersection 13,2025-09-11,New Traffic Light,2026-01-21,Monitored
+BS014,RD054,Intersection 14,2025-01-15,Street Lighting,2026-02-27,Monitored
+BS015,RD071,Intersection 15,2025-07-15,New Traffic Light,2026-01-21,Resolved
+BS016,RD034,Intersection 16,2025-12-02,Speed Bump,2026-01-27,Monitored
+BS017,RD049,Intersection 17,2025-12-06,Speed Bump,2026-04-07,Monitored
+BS018,RD061,Intersection 18,2025-09-27,Street Lighting,2026-03-31,Resolved
+BS019,RD056,Intersection 19,2025-12-09,New Traffic Light,2026-04-04,Resolved
+BS020,RD099,Intersection 20,2025-08-27,Speed Bump,2026-02-12,Resolved
